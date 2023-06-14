@@ -10,9 +10,9 @@
   <img align="center" alt="lacerda.dev-Python" height="65" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lacerda.dev-Csharp" height="65" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-<div> 
-  <a href = "mailto:lacerdavitor.dev@gmail.com"><img align="center" alt="Rafa-Js" height="15" width="400" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-lacerda-6a9620279/" target="_blank"><img align="center" alt="Rafa-Js" height="15" width="400" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div style="justify-content:space-between"> 
+  <a href = "mailto:lacerdavitor.dev@gmail.com"><img align="center" alt="Rafa-Js" height="50" width="400" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-lacerda-6a9620279/" target="_blank"><img align="center" alt="Rafa-Js" height="50" width="400" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## Olá sou Joao Vitor lacerda </br>
