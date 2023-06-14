@@ -5,7 +5,8 @@
     .formatacao{
       display:inline-flex;
    justify-content:center">
-      }
+     }
+   </style>
 <div class="formatacao">
   <img align="center" alt="Rafa-Js" height="65" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="65" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
