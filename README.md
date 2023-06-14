@@ -16,6 +16,6 @@
   
 </div>
 <div>
-<img align="center" alt="developer" height="200" width="400" src="https://raw.githubusercontent.com/Lacerdavitor/Lacerdavitor/01f72367e491008e5a9c103bf257b3973d81d154/hi%2C%20I'm%20Vitor%20Lacerda%20%2C%20a%20web%20developer%20in%20making.jpg">
+<img align="center" alt="developer" height="200" width="600" src="https://github.com/Lacerdavitor/Lacerdavitor/blob/main/hi,%20I'm%20Vitor%20Lacerda%20,%20a%20web%20developer%20in%20making%20(1).gif?raw=true">
 ## Olá sou Joao Vitor lacerda </br>
 - 🔭 I’m currently working on HTML5, CSS3, TYPE SCRIPT,BOOTSTRAP,JAVA SCRIPT.
