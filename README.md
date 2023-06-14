@@ -1,5 +1,5 @@
 <div>
-  <img align="center" alt="developer" height="400" width="1000" src="https://github.com/Lacerdavitor/Lacerdavitor/blob/main/hi,%20I'm%20Vitor%20Lacerda%20,%20a%20web%20developer%20in%20making%20(1).gif?raw=true">
+  <img align="center" alt="developer" height="400" width="800" src="https://github.com/Lacerdavitor/Lacerdavitor/blob/main/hi,%20I'm%20Vitor%20Lacerda%20,%20a%20web%20developer%20in%20making%20(1).gif?raw=true">
 </div>  
 <div style="display:inline-flex;">
   <img align="center" alt="lacerda.dev-Js" height="65" width="112" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
