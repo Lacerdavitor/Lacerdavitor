@@ -15,5 +15,8 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-lacerda-6a9620279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div>
+<img align="center" alt="developer" height="200" width="400" src=https://raw.githubusercontent.com/Lacerdavitor/Lacerdavitor/01f72367e491008e5a9c103bf257b3973d81d154/hi%2C%20Im%20Vitor%20Lacerda%20%2C%20a%20web%20developer%20in%20making.jpg>
+</div>
 ## Olá sou Joao Vitor lacerda </br>
 - 🔭 I’m currently working on HTML5, CSS3, TYPE SCRIPT,BOOTSTRAP,JAVA SCRIPT.
