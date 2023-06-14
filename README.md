@@ -1,7 +1,7 @@
 <div>
   <img align="center" alt="developer" height="400" width="1000" src="https://github.com/Lacerdavitor/Lacerdavitor/blob/main/hi,%20I'm%20Vitor%20Lacerda%20,%20a%20web%20developer%20in%20making%20(1).gif?raw=true">
 </div>  
-<div style=display:"flex">
+<div style=display:"inline">
   <img align="center" alt="Rafa-Js" height="65" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="65" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="65" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
